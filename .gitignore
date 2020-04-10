@@ -1,0 +1,7 @@
+.idea
+.metals
+project
+target
+.scalafix.conf
+assignment.sbt
+.DS_Store
